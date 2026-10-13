@@ -130,8 +130,8 @@ The initial release will not attempt automatic enrollment, guaranteed graduation
 | --- | --- |
 | ksjoh03 | [ksjoh03](https://github.com/ksjoh03) |
 | gswon | [gswon](https://github.com/gswon) |
-| Hoor | []() |
-| Eline | [](https://github.com) |
+| hoorsakrr | [hoorsakrr](https://github.com/hoorsakrr) |
+| elineson | [elineson](https://github.com/elineson) |
 
 
 ## Project History
