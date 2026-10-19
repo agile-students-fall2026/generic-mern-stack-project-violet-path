@@ -3,8 +3,13 @@
 ## App Map
 ![App Map](ux-design/Violet%20Path%20App%20Map.png)
 
+## Wireframes(Mobile)
+![Log In](ux-design/Log%20In_mobile.png)
+![Student Information](ux-design/Student%20Information_mobile.png)
+![Courses](ux-design/Courses_mobile.png)
+![GPA](ux-design/GPA_mobile.png)
 
-## Wireframes
+## Wireframes(Desktop)
 ![Log In](ux-design/Log%20in%20page.png)
 ![Student Information](ux-design/Student%20Information%20(Main).png)
 ![Courses](ux-design/Courses.png)
